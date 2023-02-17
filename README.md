@@ -6,13 +6,14 @@ Hi, I'm Austin Vas! I'm a software engineer based in Stuttgart, Geramny. I have 
 
 Here are some of the projects I have worked on and shared on GitHub:
 
+- **Vas AI** : The Vas AI initiative is a unique endeavor aimed at developing a personalized artificial intelligence assistant, similar in function to ChatGPT.
 - **Quantum Computing**: 
 - **Hyper Dimensional Computing**: 
 - **Stock Prediction**: 
 
 # 👀 Skills and Interests
 
-- Proficient in:  Python, C++, HTML/CSS, JavaScript, Bash
+- Proficient in:  Python, Go, C++, HTML/CSS, JavaScript, Bash
 - Interested in:  artificial intelligence, Data Science, Quantum Computing, Robotics
 
 # 📫 How to reach me
