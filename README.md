@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi, I'm Austin Vas! I'm a software engineer based in Stuttgart, Geramny. I have a bachelor's degree in Electronics and Communication and have been working in the tech industry for the past 2 years. I am passionate about data driven modern technology in Medical and Embedded Systems Industry.
+Hi, I'm Austin Vas! I'm a Data Scientist/ML engineer based in Stuttgart, Germany. I have a bachelor's degree in Electronics and Communication and have been working in the tech industry for the past 2 years. I am passionate about data driven modern technology in Medical and Embedded Systems Industry.
 
 # 🌱 Projects
 
